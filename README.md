@@ -6,6 +6,10 @@
 
 The inspiration for this module comes from two interconnected cultural references: the **dragon (naga) imagery found in Thai art and mythology**, and the traditional **Slompret**, a blowing instrument from East Java, Indonesia, which is often crafted in the form of a dragon's head.
 
+<a href="[https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth](https://www.himmapan.com/himmapan_naga.html)">
+  <img src="himapan naga.jpg">
+</a>
+
 The traditional Slompret is played by blowing air through the instrument's body, allowing sound to emerge from the dragon-shaped mouth. Its expressive form, combining mythological symbolism and acoustic performance, serves as the conceptual foundation for this project.
 
 The **Slompret** reinterprets this traditional blowing instrument as an electronic sound device. Rather than producing sound through an acoustic resonator, the instrument uses a **CMOS CD4093 Quad NAND Schmitt Trigger** circuit to generate chaotic oscillations, noise textures, and breath-responsive sonic behaviors.
