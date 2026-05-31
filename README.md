@@ -19,7 +19,7 @@ By merging Southeast Asian cultural heritage with DIY electronic instrument desi
 Embodying the DIWO (Do It With Others), this design interfaces with open-source hardware documentation hosted on Inspired by the [J'aime 4093 Nandsynth](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth), specifically drawing from the architecture of the Taime 4093 Nandsynth. Ready your soldering iron to convert this schematic into a responsive, low-voltage sonic engine.
 
 ---
-
+![Guide](guide.jpg)
 ## BOM
 
 | No | Component                    |
