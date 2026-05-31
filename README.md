@@ -1,6 +1,6 @@
-# Slompret
+# Slompret -  Awikworks
 
-![Traditional Slompret](docs/slompret.jpg)
+![Traditional Slompret](slompret.jpg)
 
 ## Inspiration
 
@@ -17,16 +17,6 @@ By merging Southeast Asian cultural heritage with DIY electronic instrument desi
 ## A 4093-Based Blowing Synthesizer
 
 Embodying the DIWO (Do It With Others), this design interfaces with open-source hardware documentation hosted on Inspired by the [J'aime 4093 Nandsynth](https://www.hackteria.org/wiki/J%27aime_4093_Nandsynth), specifically drawing from the architecture of the Taime 4093 Nandsynth. Ready your soldering iron to convert this schematic into a responsive, low-voltage sonic engine.
-
----
-
-# Slompret Synthesizer
-
-**A 4093-Based Blowing Synthesizer**
-
-The Slompret Synthesizer is an experimental blow-controlled electronic instrument centered around the **CMOS CD4093 Quad Input NAND Schmitt Trigger** integrated circuit. By repurposing digital logic gates as analog oscillators, the circuit generates chaotic noise textures, unstable frequencies, and unpredictable sonic behaviors that respond to breath and sound input.
-
-Developed as an accessible DIY workshop instrument, Slompret introduces participants to soldering, basic electronics, open-source hardware, and experimental sound practices through a playful and hands-on approach.
 
 ---
 
