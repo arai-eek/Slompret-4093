@@ -1,6 +1,6 @@
 # Slompret -  Awikworks
 
-![Traditional Slompret](slompret.jpg)
+![Traditional Slompret](slompret-naga.jpg)
 
 ## Inspiration
 
