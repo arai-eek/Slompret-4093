@@ -51,7 +51,7 @@ Embodying the DIWO (Do It With Others), this design interfaces with open-source 
 | 21 | DC Power Connector           |
 
 ---
-![Preview](preview.jpg)
+![Preview](preview.png)
 
 2026-Awikworks
 Arai-Eek CoLabs
